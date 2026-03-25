@@ -13,7 +13,7 @@ I am a "Researcher-Builder" hybrid focused on architecting scalable, production-
 
 ### 🏗️ **Featured Projects**
 
-#### [**CarlaBEV**](https://github.com/danielmtzbarba/CarlaBEV)
+#### [**CarlaBEV**](https://github.com/danielmtzbarba/carlabev-env)
 * **The Problem:** Bridging the gap between raw sensor data and semantic Bird’s-Eye View (BEV) mapping.
 * **The Solution:** A custom simulation framework for autonomous navigation and decision-making validation.
 * **Tech:** Python, PyTorch, Carla Simulator, Computer Vision.
