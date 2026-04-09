@@ -13,6 +13,12 @@ I am a "Researcher-Builder" hybrid focused on architecting scalable, production-
 
 ### 🏗️ **Featured Projects**
 
+#### [**QuantAI Trading Engine**](https://github.com/danielmtzbarba/quant-ai-agent)
+* **The Problem:** Bridging the gap between high-level agentic research and reliable, real-world trade execution while maintaining secure multi-cloud infrastructure.
+* **The Solution:** A LangGraph-powered ReAct agent featuring a WhatsApp interface to orchestrate structured research workflows, ground outputs, and trigger automated broker API execution.
+* **Tech:** LangGraph, OpenAI API, FastAPI, Docker, Terraform (IaC), GCP/Azure, Tailscale (VPN), PostgreSQL, GitHub Actions.
+---
+
 #### [**CarlaBEV**](https://github.com/danielmtzbarba/carlabev-env)
 * **The Problem:** Bridging the gap between raw sensor data and semantic Bird’s-Eye View (BEV) mapping.
 * **The Solution:** A custom simulation framework for autonomous navigation and decision-making validation.
@@ -23,7 +29,7 @@ I am a "Researcher-Builder" hybrid focused on architecting scalable, production-
 | Domain | Technologies |
 | :--- | :--- |
 | **AI / ML** | PyTorch, LangChain, Transformers, Scikit-learn, Hugging Face |
-| **Backend** | Python, FastAPI, SQL, REST APIs, Auth, Logging |
-| **DevOps** | Docker, Linux, Git, AWS |
+| **Backend** | Python, FastAPI, PostgreSQL, REST APIs, Auth, Logging |
+| **DevOps** | Git • Linux • Docker • Terraform • GitHub Actions |
 
 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/danielmtzbarba) | [Email](mailto:danielmtzbarba@gmail.com)
